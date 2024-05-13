@@ -2,7 +2,7 @@ DSC 200 Lab Project -Term 2232
 ================
 2024-05-13
 
-**Student Name:nawal alenezi**
+**Student Name:nawal alenezikkk**
 
 **Student ID:123456789**
 
